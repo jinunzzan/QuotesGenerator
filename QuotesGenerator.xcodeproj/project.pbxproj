@@ -14,6 +14,7 @@
 		599DDC322A0CB6B500372414 /* QuotesGenerator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 599DDC302A0CB6B500372414 /* QuotesGenerator.xcdatamodeld */; };
 		599DDC342A0CB6B600372414 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 599DDC332A0CB6B600372414 /* Assets.xcassets */; };
 		599DDC372A0CB6B600372414 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 599DDC352A0CB6B600372414 /* LaunchScreen.storyboard */; };
+		599DDC3F2A0CB9D700372414 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599DDC3E2A0CB9D700372414 /* Quote.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		599DDC332A0CB6B600372414 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		599DDC362A0CB6B600372414 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		599DDC382A0CB6B600372414 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		599DDC3E2A0CB9D700372414 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				599DDC352A0CB6B600372414 /* LaunchScreen.storyboard */,
 				599DDC382A0CB6B600372414 /* Info.plist */,
 				599DDC302A0CB6B500372414 /* QuotesGenerator.xcdatamodeld */,
+				599DDC3E2A0CB9D700372414 /* Quote.swift */,
 			);
 			path = QuotesGenerator;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				599DDC322A0CB6B500372414 /* QuotesGenerator.xcdatamodeld in Sources */,
 				599DDC2C2A0CB6B500372414 /* ViewController.swift in Sources */,
 				599DDC282A0CB6B500372414 /* AppDelegate.swift in Sources */,
+				599DDC3F2A0CB9D700372414 /* Quote.swift in Sources */,
 				599DDC2A2A0CB6B500372414 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
